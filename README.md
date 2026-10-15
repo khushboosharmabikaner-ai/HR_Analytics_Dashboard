@@ -33,4 +33,4 @@ performance, job satisfaction, and attrition patterns.
 [HR_Analytics_SQL.sql](HR_Analytics_SQL.sql)
 
 ## Power BI Source File
-[HR_Dashboard.pbix](HR_Dashboard.pbix)
+[hr_analysis.pbix](hr_analysis.pbix)
