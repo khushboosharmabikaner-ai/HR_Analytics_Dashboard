@@ -30,7 +30,7 @@ performance, job satisfaction, and attrition patterns.
 [hr_analysis_dashboard.pdf](hr_analysis_dashboard.pdf)
 
 ## SQL Queries
-[hr_analytics_queries.sql](hr_analytics_queries.sql)
+[HR_Analytics_SQL.sql](HR_Analytics_SQL.sql)
 
 ## Power BI Source File
 [HR_Dashboard.pbix](HR_Dashboard.pbix)
